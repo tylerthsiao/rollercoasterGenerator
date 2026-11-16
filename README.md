@@ -1,1 +1,1 @@
-Rollercoaster Generator App made using JavaScript and the Rollercoasters database on Code.org. Use this link to view the app: [https://studio.code.org/projects/applab/0b09a9d4-9b9a-4d28-9485-4b1a52c8bc7c](url)
+Rollercoaster Generator App made using JavaScript and the Rollercoasters database on Code.org. Use this link to view the app: [Rollercoaster Generator]([url](https://studio.code.org/projects/applab/0b09a9d4-9b9a-4d28-9485-4b1a52c8bc7c))
